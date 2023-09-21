@@ -1,0 +1,11 @@
+:root{
+    --orange: #ffa600;
+    --grey:#9c9797;
+    --white:#fff;
+    --corbase:var(--orange);
+}
+
+.comecar,.pausar,.resetar{
+    -webkit-transition: all 0.5s ease-in-out;
+}
+
